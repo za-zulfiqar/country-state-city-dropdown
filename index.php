@@ -1,8 +1,14 @@
 <?php include 'db.php'; ?>
+
+<!-- 
+**** Author: Zulfiqar
+**** Date: 2026-02-28 
+-->
+
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Country State City Dropdown</title>
+    <title>Country State City Postal Code Dropdown</title>
     <script src="script.js"></script>
 </head>
 <body>
